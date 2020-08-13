@@ -10,7 +10,7 @@
 
 title: HackersCorp                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: InfoSec/Cybersec/Tech Blog And Writeups.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -31,7 +31,7 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: Hackserscorp                 # it will shows as the copyright owner in Footer
+  name: Hackerscorp                 # it will shows as the copyright owner in Footer
   email: gunal.charan@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
