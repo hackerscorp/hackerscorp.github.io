@@ -29,7 +29,9 @@ github:
   username: hackerscorp            # change to your github username
 
 twitter:
-  username: twitter_username
+  username: corp_hackers
+facebook:
+  username: hacker.corp.104
   # change to your twitter username
 
 social:
