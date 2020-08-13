@@ -41,7 +41,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: <meta name="google-site-verification" content="P_M-ycMCQtjFGuZHPdRkX04sn_GcCp0zxyEPN7BYK3E" /> # change to your verification string
 
 #--------------------------
 
