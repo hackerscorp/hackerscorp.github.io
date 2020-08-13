@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: HackersCorp                          # the main title
 
 tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
@@ -18,25 +18,25 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://hackerscorp.github.io'
 
-author: your_full_name                  # change to your full name
+author: Hackerscorp                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: hackerscorp            # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Hackserscorp                 # it will shows as the copyright owner in Footer
+  email: gunal.charan@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/hackerscorp       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -71,7 +71,7 @@ disqus:
 
 # Prefer color scheme setting, available values:
 #
-#     dual   - Follow the system prefer color by default, and a toggle will display
+  dual   - Follow the system prefer color by default, and a toggle will display
 #              in the left bottom of Sidebar, which used for switch the theme between dark and light.
 #
 #     light  - Use the light color scheme
