@@ -42,7 +42,7 @@ social:
     - https://twitter.com/corp_hackers      # change to your twitter homepage
     - https://github.com/hackerscorp       # change to your github homepage
     # Uncomment below to add more social links
-     - https://www.facebook.com/hackers.corp.104
+      - https://www.facebook.com/hackers.corp.104
     # - https://www.linkedin.com/in/username
 
 google_site_verification: "P_M-ycMCQtjFGuZHPdRkX04sn_GcCp0zxyEPN7BYK3E"# change to your verification string
