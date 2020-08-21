@@ -21,7 +21,7 @@
 
 # Uncomment and complete the url below to enable more contact options
 -
-   icon: 'fa fa-instagram'   # icons powered by <https://fontawesome.com/>
+   icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
    url:  'https://www.instagram.com/hackers.corp/'                  # Fill with your mastodon account page
 -
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
