@@ -23,15 +23,14 @@ url: 'https://hackerscorp.github.io'
 
 author: Hackerscorp                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/hackers-corp.jpg   # support internet resources
 
 github:
   username: hackerscorp            # change to your github username
 
 twitter:
   username: corp_hackers
-facebook:
-  username: hacker.corp.104
+
   # change to your twitter username
 
 social:
@@ -42,7 +41,7 @@ social:
     - https://twitter.com/corp_hackers      # change to your twitter homepage
     - https://github.com/hackerscorp       # change to your github homepage
     # Uncomment below to add more social links
-      - https://www.facebook.com/hackers.corp.104
+    - https://www.facebook.com/hackers.corp.104
     # - https://www.linkedin.com/in/username
 
 google_site_verification: "P_M-ycMCQtjFGuZHPdRkX04sn_GcCp0zxyEPN7BYK3E"# change to your verification string
